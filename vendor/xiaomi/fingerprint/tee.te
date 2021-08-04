@@ -1,0 +1,3 @@
+# Fingerprint data
+allow tee fingerprint_data_file:dir rw_dir_perms;
+allow tee fingerprint_data_file:file create_file_perms;
